@@ -3,7 +3,8 @@
 <!--
 **haanzee/haanzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, Myself Jaswinder Singh a Computer Science Engineering . After gratuation from GNDU, Amritsar, I am done E-Commerce & M-Commerce from Aptect Computer, Ludhiana 
+in Computer Science . from last one year learn Python with there framework like Django and Flask. and also working on Data Science.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
