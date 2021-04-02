@@ -1,7 +1,5 @@
 ###  
-Hello, Myself 👋 Jaswinder Singh a Computer Science Engineering . After gratuation from GNDU, Amritsar, I am done E-Commerce & M-Commerce from Aptect Computer, Ludhiana 
-in Computer Science . from last one year learn Python with there framework like Django and Flask. and also working on Data Science.
-
+I am passionate about learning advance and new technologies which are used in the frontend or backend with framework technology. I enjoy creating sleek and responsive applications in addition to begin a user-friendly environment. A versatile software engineer interest in new software technologies and continuous self-improvement.
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning FullStack Web Development and Data Science 
 - 👯 I’m looking to collaborate on ...
